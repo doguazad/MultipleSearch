@@ -27,4 +27,5 @@ else{
     echo "We encountered an Error.We send you back.";
     header("Refresh: 5; url=index.php");
 }
+// 2022 ©  GezegenDigital
 ?>
